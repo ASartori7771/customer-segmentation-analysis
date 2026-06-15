@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# Pipeline outputs — generated at runtime, not needed in repo
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
